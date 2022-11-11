@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.pirmas {
+    background-image: url("image/fonas.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
