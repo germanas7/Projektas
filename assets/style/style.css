@@ -3,7 +3,17 @@
     padding: 0;
 }
 .pirmas {
-    background-image: url("image/fonas.jpg");
+    background-image: url("../../image/fonas.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
+.antras {text-align: center;
+          color: aquamarine;
+          margin: 100px; }
+
+.remelis {
+        border: 3px solid aquamarine;
+        margin: 10px;
+        padding: 10px;
+        }
+  }
